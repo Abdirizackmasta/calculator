@@ -53,10 +53,14 @@ form input.zero {
 @media only screen and (max-width: 600px) {
   .container {
     width: 60%;
-    padding: 10px 5px;
+    padding: 10px;
     margin: 0 auto;
     /* height: 100vh; */
   }
+  .calculator{
+    padding: 10px;
+  }
+
   .calculator form input {
     width: 25px;
     height: 25px;
