@@ -62,9 +62,9 @@ form input.zero {
   }
 
   .calculator form input {
-    width: 25px;
-    height: 25px;
-    border-radius: 8px;
+    width: 15px;
+    height: 15px;
+    border-radius: 5px;
     margin: 10px;
     font-size: 10px;
   }
